@@ -1,0 +1,1 @@
+Patch isimli yeni bir dal oluşturdu.main altında çalışmak için tekrar yapıyorum.
